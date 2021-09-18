@@ -5,7 +5,7 @@ l3 = list(s)
 def show(func):
     def n_func(*args, **kwargs):
         result = 0
-        print('Function - ', show(func))
+        print('Function - ', func.__name__)
         print('Positional arguments are:', args)
         print('Keyword arguments are:', kwargs)
         result = func(*args, **kwargs)
@@ -13,19 +13,13 @@ def show(func):
         return result
     return n_func
 
-def p_for(l3):
-	for el in l3:
-            print(el)
-
-watch = show(p_for(l3))
-watch(1,3)
-
 @show
 
 def p_for(l3):
 	for el in l3:
             print(el)
 
-p_for(1, 3)
+show(p_for(l3))
+p_for(4, 8)
 
 print (p_for(l3))
