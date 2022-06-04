@@ -85,6 +85,7 @@ chmod +x main.sh
 Приятного пользования :)
 
 ![](https://github.com/naaastyazharkova/homework_python/blob/main/Project/pictures/mem.jpg)
+![](https://github.com/naaastyazharkova/homework_python/blob/main/Project/pictures/1_ArGtAccJ8xyxCqwzdaWhAQ.png)
  
 
 
