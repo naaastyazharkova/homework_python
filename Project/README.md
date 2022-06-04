@@ -3,11 +3,11 @@
 
 ### Цель: написать скрипт, который
 
-:ballot_box_with_check: 1. сообщает, какие компьютеры находятся локальной сети
+:ballot_box_with_check: сообщает, какие компьютеры находятся локальной сети
 
-:ballot_box_with_check: 2. выдаёт внешний IP адрес сервера
+:ballot_box_with_check: выдаёт внешний IP адрес сервера
 
-:ballot_box_with_check: 3. генерирует пароль
+:ballot_box_with_check: генерирует пароль
 
 Сделать две реализации: python и bash.
 
