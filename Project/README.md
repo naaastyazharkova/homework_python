@@ -54,14 +54,14 @@ python3 main.py --ip ip
 
 + сгенерировать пароль:
 ```
-python3 main.py --ip ip
+python3 main.py --word password
 ```
 
 ## Как запустить скрипт ***bash***:
 
 + сделать файл исполняемым:
 ```
-chmode +x main.sh
+chmod +x main.sh
 ```
 
 + узнать, какие компьютеры в сети:
